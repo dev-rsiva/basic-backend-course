@@ -1,0 +1,6 @@
+09022024	00:17:13	6e775aa8-7924-4eec-acc2-64ec2437234c	Error: Not allowed by CORS
+09022024	11:44:11	56fad744-fa81-43b8-bf99-c923cd42b144	TypeError: Cannot read properties of undefined (reading 'firstName')
+09022024	11:45:49	1d8df557-2111-4fdd-9ecc-e0ded05a4c3b	TypeError: Cannot read properties of undefined (reading 'firstName')
+09022024	11:45:54	fb715f3c-3a8d-4583-b97e-b62293e17351	TypeError: Cannot read properties of undefined (reading 'firstName')
+09022024	11:45:54	e5a24cf4-6159-4b02-99aa-32db91340511	TypeError: Cannot read properties of undefined (reading 'firstName')
+09022024	11:45:57	f0a4d388-e50b-4084-8b11-c2f8a90cef2d	TypeError: Cannot read properties of undefined (reading 'firstName')

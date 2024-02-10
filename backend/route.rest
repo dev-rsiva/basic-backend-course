@@ -1,0 +1,29 @@
+
+GET http://localhost:3000/employees/
+###
+POST http://localhost:3000/employees
+Content-Type: application/json
+
+{
+  "firstname": "sivakumar",
+  "lastname": "ramanathan"
+}
+###
+PUT http://localhost:3000/employees
+Content-Type: application/json
+
+{
+  "firstname": "balachandra",
+  "lastname": "subscriber"
+}
+###
+GET http://localhost:3000/employees/5
+###
+DELETE http://localhost:3000/employees
+Content-Type: application/json
+
+{
+  "id": 10
+}
+ 
+
